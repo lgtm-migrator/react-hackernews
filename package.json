@@ -22,7 +22,7 @@
     "sync:push": "bash build/sync-push.sh"
   },
   "dependencies": {
-    "connected-react-router": "^6.8.0",
+    "connected-react-router": "^6.9.3",
     "core-js": "^3.7.0",
     "cross-env": "^7.0.3",
     "debug": "^4.3.4",
